@@ -28,6 +28,3 @@ This repository is where I save my college work as Google Colab notebooks. I use
 
 - GitHub: https://github.com/mondragonStudent
 
----
-
-(Generated and added by README creation request.)
