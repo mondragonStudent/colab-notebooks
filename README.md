@@ -1,30 +1,29 @@
-# colab-notebooks
+# Colab Notebooks Portfolio
 
-![Profile picture](https://github.com/mondragonStudent.png)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mondragonStudent/colab-notebooks)
 
-This repository is where I save my college work as Google Colab notebooks. I use it to store, organize, and share assignments, experiments, and notes created in Colab.
+## About This Repository
+This repository contains my college coursework, assignments, and experiments using **Google Colab**. 
 
-## Repository structure
+Because of restrictions with our student accounts regarding Google Drive access, this repository serves as the central hub for templates and static files, while active development is often handled via **GitHub Gists**.
 
-- notebooks/ — Google Colab notebooks (.ipynb)
-- assets/ — images, datasets, and other supporting files
-- README.md — this file
+## Getting Started (Important)
+If you are a student setting up your environment for the first time, please read the setup guide included in this repository. It explains how to bypass the Google Drive restriction using GitHub.
 
-## How to open a notebook in Google Colab
+**[Click here to open the Setup Instructions](Instructions_to_setup_google_colab_notebooks_with_github_gist.ipynb)**
 
-1. Go to the notebook file in this repository on GitHub.
-2. Click the "Open in Colab" badge if present, or use this URL pattern (replace the path):
+## Repository Structure
 
-   https://colab.research.google.com/github/mondragonStudent/colab-notebooks/blob/main/<path-to-notebook>.ipynb
+| Directory / File | Description |
+| :--- | :--- |
+| **`templates/`** | Blank starter files (e.g., `template.ipynb`) to standardize new assignments. |
+| **`Instructions...`** | The guide on connecting Colab to GitHub Gists. |
 
-3. Colab will open the notebook where you can run and edit it.
+## How to Run These Notebooks
 
-## Notes
-
-- Keep notebooks small and focused; add datasets to `assets/` when necessary.
-- Add a short description at the top of each notebook explaining the purpose and required data files.
-
-## Contact
-
-- GitHub: https://github.com/mondragonStudent
+1. Navigate to the notebook file you wish to view in this repository.
+2. Click the **"Open in Colab"** badge at the top of the file (if available).
+3. **Alternatively**, use this URL pattern:
+   ```text
+   [https://colab.research.google.com/github/mondragonStudent/colab-notebooks/blob/main/notebooks/YOUR_FILENAME.ipynb](https://colab.research.google.com/github/mondragonStudent/colab-notebooks/blob/main/notebooks/YOUR_FILENAME.ipynb)
 
